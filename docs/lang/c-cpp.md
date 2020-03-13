@@ -25,8 +25,8 @@ C++ 版本
 
 ```cpp
 struct Node {
-  Node *next;
-  int key;
+    Node *next;
+    int key;
 };
 ```
 
